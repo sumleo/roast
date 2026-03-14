@@ -1,0 +1,23 @@
+{
+    "name": "roast",
+    "version": "1.0.0",
+    "description": "Thought Roasting Engine — turns AI into a relentless Socratic questioner. Progressive 5-level interrogation (D1 Surface → D5 Core) with 7 questioning flavors (Socratic, First Principles, Devil's Advocate, VC Mode, CBT, Mirror, Feynman). Includes anti-deflection system, cognitive bias detection, and structured depth reports.",
+    "author": {
+        "name": "Yi Liu",
+        "url": "https://github.com/sumleo"
+    },
+    "homepage": "https://github.com/sumleo/roast",
+    "repository": "https://github.com/sumleo/roast",
+    "license": "MIT",
+    "keywords": [
+        "roast",
+        "socratic",
+        "thinking",
+        "cognitive-bias",
+        "deep-thinking",
+        "questioning",
+        "critical-thinking",
+        "devil-advocate",
+        "first-principles"
+    ]
+}
